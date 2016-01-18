@@ -4,7 +4,7 @@
         <description><![CDATA[DavoDays]]></description>
         <link>https://thegrid.ai/davodays/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 08:22:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jan 2016 08:22:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/davodays/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/davodays/a73fcc17-2ea7-4651-b31c-a322be23a7b3/index.html</link>
             <guid isPermaLink="false">a73fcc17-2ea7-4651-b31c-a322be23a7b3</guid>
             <pubDate>Mon, 18 Jan 2016 07:50:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Great Ocean Road // THE TWELVE APOSTLES]]></title>
+            <description><![CDATA[<article><h1>Great Ocean Road // THE TWELVE APOSTLES</h1><p>Great Ocean Road // The Twelve Apostles Vlog: 18 The great ocean road is one of Australia's best coastline to drive, stunning views await as you twist and turn along the roads. The twelve apostles are one of australia's most iconic landscapes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6526f5efb3e02abae79fcad963dbe43a7fcac1f3.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=1E9wq731Erg</link>
+            <guid isPermaLink="false">129165d5-4a95-4dd9-a21e-951425f4be72</guid>
+            <pubDate>Mon, 18 Jan 2016 08:22:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Great Ocean Road Fires 2015]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=ijpVhYwr_Jo</link>
             <guid isPermaLink="false">5c236ee2-b60f-472b-a0fb-aecc40fdf940</guid>
             <pubDate>Mon, 18 Jan 2016 08:18:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Best Free Campsite]]></title>
-            <description><![CDATA[<article><h1>The Best Free Campsite</h1><p>The Best Free Campsite Episode: 10 After leaving Jervis bay i came across an awesome hidden free camp site called Potato Point just south of Narooma. It was such an awesome place, many kangaroos, wallabies and an unbeatable view from just outside the vans back window.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1047511ce0bc9b01ed8c6458516e18126ad05301.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=v_mXWyiUYx8</link>
-            <guid isPermaLink="false">07ad3e07-96ee-4cc2-9db8-54e322c3bcf4</guid>
-            <pubDate>Mon, 18 Jan 2016 08:18:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
