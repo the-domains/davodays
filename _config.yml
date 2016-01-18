@@ -1,7 +1,7 @@
 name: DavoDays
 favicon: null
-layout_spectrum: 0.1904284677002579
-typography_spectrum: 0.6410058580804616
+layout_spectrum: 0.48992
+typography_spectrum: 0.25463
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#181619'
+    - '#544c59'
+    - '#758eab'
+    - '#fdb82c'
+    - '#b97d52'
   brandStrength: 0.8854922880418599
   lightness: 0.605698216939345
   saturation: 0.15972808795049787
