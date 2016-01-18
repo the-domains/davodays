@@ -5,22 +5,25 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://www.youtube.com/'
   name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
   domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
 keywords: []
 description: 'The country that has stolen my heart. This is the first CINEMATIC SESSIONS series of DAVODAYS. Cinematic sessions will be highlighted travel, documentary and profile videos of the the highest quality. This episode is dedicated to an amazing experience travelling through Japan over two weeks. Japan is such an incredible place to travel.'
 app_links: []
 isBasedOnUrl: 'https://www.youtube.com/watch?v=H3h6QYhLsPQ'
 title: Cinematic Sessions // A Journey Through Japan
-datePublished: '2016-01-18T08:13:27.282Z'
-dateModified: '2016-01-18T08:12:57.040Z'
+datePublished: '2016-01-18T10:49:15.597Z'
+dateModified: '2016-01-18T09:18:57.221Z'
 sourcePath: _posts/2016-01-18-cinematic-sessions-a-journey-through-japan.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+inLanguage: null
+starred: true
+authors: []
 _type: VideoObject
 _context: 'http://schema.org'
 
