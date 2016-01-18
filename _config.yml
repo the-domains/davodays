@@ -1,6 +1,6 @@
 name: DavoDays
 favicon: null
-layout_spectrum: 0.25126
+layout_spectrum: 0.49328
 typography_spectrum: 0.11849
 title: DavoDays
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0
   lightness: 0.625
   saturation: 1
-  rhythmicContrast: 1
+  rhythmicContrast: 0.75
 purpose: []
