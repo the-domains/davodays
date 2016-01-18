@@ -14,8 +14,8 @@ description: "Stoked on Stokes Bay - Kangaroo Island Vlog: 20 SUBSCRIBE: https:/
 app_links: []
 isBasedOnUrl: 'https://www.youtube.com/watch?v=JckQa3l0S9A'
 title: Stoked on Stokes Bay - Kangaroo Island
-datePublished: '2016-01-18T09:29:04.381Z'
-dateModified: '2016-01-18T09:27:20.622Z'
+datePublished: '2016-01-18T10:25:32.489Z'
+dateModified: '2016-01-18T10:25:05.435Z'
 sourcePath: _posts/2016-01-18-stoked-on-stokes-bay-kangaroo-island.md
 published: true
 inFeed: true
