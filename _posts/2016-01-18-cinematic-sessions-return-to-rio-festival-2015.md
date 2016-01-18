@@ -35,14 +35,14 @@ app_links:
     type: web
 isBasedOnUrl: 'https://www.youtube.com/watch?v=fCIV9WhkN8Y'
 title: Cinematic Sessions // Return To Rio Festival 2015
-datePublished: '2016-01-18T10:49:32.822Z'
-dateModified: '2016-01-18T10:49:32.095Z'
+datePublished: '2016-01-18T10:55:09.696Z'
+dateModified: '2016-01-18T10:55:03.890Z'
 sourcePath: _posts/2016-01-18-cinematic-sessions-return-to-rio-festival-2015.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
-starred: true
+starred: false
 authors: []
 _type: VideoObject
 _context: 'http://schema.org'
