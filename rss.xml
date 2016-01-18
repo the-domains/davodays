@@ -4,7 +4,7 @@
         <description><![CDATA[DavoDays]]></description>
         <link>https://thegrid.ai/davodays/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 08:19:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jan 2016 08:19:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/davodays/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/davodays/a73fcc17-2ea7-4651-b31c-a322be23a7b3/index.html</link>
             <guid isPermaLink="false">a73fcc17-2ea7-4651-b31c-a322be23a7b3</guid>
             <pubDate>Mon, 18 Jan 2016 07:50:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Best Hike in Sydney Harbour]]></title>
-            <description><![CDATA[<article><h1>Best Hike in Sydney Harbour</h1><p>Best Hike in Sydney Harbour - Bradleys Head to Chowder Bay Episode: Vlog_08 Wow this Sydney Harbour hike was amazing, it starts off at the Taronga Zoo ferry and you follow the foreshore around for about 1.45 hours. The Bradley Head reserve is amazing and provides a easy walking track with boardwalks along the way.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/36b4b4d0b88f9754054cde3d55281556c8ebb23e.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=ijpVhYwr_Jo</link>
-            <guid isPermaLink="false">5c236ee2-b60f-472b-a0fb-aecc40fdf940</guid>
-            <pubDate>Mon, 18 Jan 2016 08:18:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Best Free Campsite]]></title>
@@ -75,6 +68,13 @@
             <link>https://www.youtube.com/watch?v=H3h6QYhLsPQ</link>
             <guid isPermaLink="false">5d7e85e8-52bd-4b52-b0ba-57015dc088cb</guid>
             <pubDate>Mon, 18 Jan 2016 08:13:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[She's Moving]]></title>
+            <description><![CDATA[<article><h1>She's Moving</h1><p>She's Moving Episode: Vlog 02 LIKE AND SUBSCRIBE THUMBS UP FOR DAVODAYS! Instagram: https://instagram.com/dcfotofilm/ Twitter: https://twitter.com/dcfotofilm Facebook: https://www.facebook.com/dcfotofilm Hey Guys, So this is my very second vlog to startup my new channel DAVODAYS. I've been thinking about creating a youtube channel for a couple months now and finally i've pulled the trigger and i'm doing it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4235171293b2cea07b6a6e14599fe8b0b741570.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=_kdVcKONUdI</link>
+            <guid isPermaLink="false">dd781d82-705c-47e1-bbca-1327db3b43a1</guid>
+            <pubDate>Mon, 18 Jan 2016 08:12:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
