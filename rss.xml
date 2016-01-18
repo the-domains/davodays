@@ -4,7 +4,7 @@
         <description><![CDATA[DavoDays]]></description>
         <link>https://thegrid.ai/davodays/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 08:03:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jan 2016 08:06:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/davodays/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,13 +19,6 @@
             <link>https://www.youtube.com/watch?v=mWk362AWLHw</link>
             <guid isPermaLink="false">b80307e2-bc9c-43aa-a07c-e6b4ce5bc986</guid>
             <pubDate>Mon, 18 Jan 2016 08:02:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2bcece40-902a-4d11-bb55-30b28e0d26f9.jpg">]]></description>
-            <link>https://thegrid.ai/davodays/ae13e7e2-072f-4f6f-ae0a-2cb5204b7cc6/index.html</link>
-            <guid isPermaLink="false">ae13e7e2-072f-4f6f-ae0a-2cb5204b7cc6</guid>
-            <pubDate>Mon, 18 Jan 2016 07:58:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
