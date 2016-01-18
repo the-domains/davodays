@@ -14,8 +14,8 @@ description: 'The country that has stolen my heart. This is the first CINEMATIC 
 app_links: []
 isBasedOnUrl: 'https://www.youtube.com/watch?v=H3h6QYhLsPQ'
 title: Cinematic Sessions // A Journey Through Japan
-datePublished: '2016-01-18T10:49:16.008Z'
-dateModified: '2016-01-18T10:49:15.597Z'
+datePublished: '2016-01-18T10:49:16.500Z'
+dateModified: '2016-01-18T10:49:16.008Z'
 sourcePath: _posts/2016-01-18-cinematic-sessions-a-journey-through-japan.md
 published: true
 inFeed: true
